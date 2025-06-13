@@ -20,9 +20,11 @@ body:
       label: 👥 Team Details
       description: Provide the team name, member names, and email addresses
       placeholder: |
-        - Team Name: The Innovators
-        - Member 1: Alice Smith (alice@email.com)
-        - Member 2: Bob Johnson (bob@email.com)
+        - Team Name: Nexus
+        - Member 1: Milit Arya (militarya2003@email.com)
+        - Member 2: Tanuj Ramchandani (bob@email.com)
+        - Member 3: Yatin Kumar (bob@email.com)
+        - Member 4: Yuvraj Garg (bob@email.com)
     validations:
       required: true
 
