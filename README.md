@@ -68,7 +68,7 @@ Below are the projects allotted to different teams in AISoC 2025:
 
 - Team members' full names and emails
    - Name: Milit Arya, Email Id: militarya2003@gmail.com
-   - Name: Yuvraj Garg, Email Id:
+   - Name: Yuvraj Garg, Email Id: yuvigarg6806@gmail.com
    - Name: Yatin Kumar, Email Id:
    - Name: Tanuj Ramchandani, Email Id:
 - The assigned problem statement (already allotted)
