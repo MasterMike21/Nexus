@@ -67,12 +67,12 @@ Below are the projects allotted to different teams in AISoC 2025:
 - **Project 11**: A design-focused initiative encouraging teams to develop impactful user interfaces and design prototypes with a creative edge.
 
 - Team members' full names and emails
-    Name: Milit Arya, Email Id: militarya2003@gmail.com
-    Name: Yuvraj Garg, Email Id:
-    Name: Yatin Kumar, Email Id:
-    Name: Tanuj Ramchandani, Email Id:
+   - Name: Milit Arya, Email Id: militarya2003@gmail.com
+   - Name: Yuvraj Garg, Email Id:
+   - Name: Yatin Kumar, Email Id:
+   - Name: Tanuj Ramchandani, Email Id:
 - The assigned problem statement (already allotted)
-     An indoor navigation tool leveraging BLE sensors to provide accurate, real-time location tracking within buildings.
+   - An indoor navigation tool leveraging BLE sensors to provide accurate, real-time location tracking within buildings.
 - A quick start guide with examples to run your code
 - Any other details if we need to know
 ---
